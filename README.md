@@ -1,5 +1,5 @@
 ### 👋 Привет всем, меня зовут Elezthem 🐍
-Изучаю/изучал вот такие темы.
+🦄 Изучаю/изучал вот такие темы 🌍
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,django)](https://skillicons.dev)
 
