@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Привет всем, меня зовут Elezthem 🐍
+Изучаю/изучал вот такие темы.
 
-<!--
-**Elezthem/Elezthem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,django)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+💙 Пишу/писал вот таких программах 🖤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,visualstudio,github,git,blender)](https://skillicons.dev)
+
+💀 Часто сижу/сидел 💸
+
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,instagram,stackoverflow)](https://skillicons.dev)
+
+💥 Зобросил ☕
+
+[![My Skills](https://skillicons.dev/icons?i=heroku,figma)](https://skillicons.dev)
