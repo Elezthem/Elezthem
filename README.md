@@ -1,16 +1,20 @@
-### 👋 Привет всем, меня зовут Elezthem 🐍
-🦄 Изучаю/изучал вот такие темы 🌍
+### 👋 Привет всем, меня зовут ElezthemDev
+---------------------------------------
+## Я начинающий GameDev, Python Developer, WebDeveloper, Designer, JavaScript Developer
+---------------------------------------
+# Немного обо мне:
+- 🌍 Проживаю в Украине
+- ✉ Связь со мной ( hendrey228228228k@gmail.com )
+- 💻 Сейчас изучаю/буду изучать: C#, Python, C++, Java, JavaScript, Node.js, HTML
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,django)](https://skillicons.dev)
+# Пишу/Навыки
+[![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,php,py,cpp,css,django,ruby)](https://skillicons.dev)
 
-💙 Пишу/писал вот таких программах 🖤
+# Часто используемые среды разработки
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,visualstudio,github,git,blender)](https://skillicons.dev)
+# Среды для дизайна и т.д
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,github,qt,unity)](https://skillicons.dev)
 
-💀 Часто сижу/сидел 💸
-
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,instagram,stackoverflow)](https://skillicons.dev)
-
-💥 Зобросил ☕
-
-[![My Skills](https://skillicons.dev/icons?i=heroku,figma)](https://skillicons.dev)
+# Соц.сети
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
