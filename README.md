@@ -7,6 +7,10 @@
 - ✉ Связь со мной ( hendrey228228228k@gmail.com )
 - 💻 Сейчас изучаю/буду изучать: C#, Python, C++, Java, JavaScript, Node.js, HTML
 
+# Discord Profile
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1047952052946489475)](https://discord.com/users/1047952052946489475)
+
 # Пишу/Навыки
 [![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,php,py,cpp,css,django,ruby)](https://skillicons.dev)
 
