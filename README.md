@@ -1,4 +1,4 @@
-### 👋 Привет всем, меня зовут ElezthemDev
+### 👋 Привет всем, меня зовут HemyDev ( AKA ElezthemDev )
 ---------------------------------------
 ## Я начинающий GameDev, Python Developer, WebDeveloper, Designer, JavaScript Developer
 ---------------------------------------
