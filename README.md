@@ -7,6 +7,10 @@
 - ✉ Связь со мной ( hendrey228228228k@gmail.com / https://t.me/thehemydev)
 - 💻 Сейчас изучаю/буду изучать: C#, Python, C++, Java, JavaScript, Node.js, HTML
 
+# GitHub Status
+
+![Elezthem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elezthem&show_icons=true&theme=radical)
+
 # Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1089529478977421404)](https://discord.com/users/1089529478977421404)
