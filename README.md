@@ -1,11 +1,11 @@
-### 👋 Привет всем, меня зовут ElezthemDev
+### 👋 Hello everyone, my name is ElezthemDev
 ---------------------------------------
-## Я начинающий GameDev, Python Developer, WebDeveloper, Designer, JavaScript Developer
+## I am a beginner GameDev, Python Developer, WebDeveloper, Designer, JavaScript Developer
 ---------------------------------------
-# Немного обо мне:
-- 🌍 Проживаю в Украине
-- ✉ Связь со мной ( hendrey228228228k@gmail.com / https://t.me/thehemydev)
-- 💻 Сейчас изучаю/буду изучать: C#, Python, C++, Java, JavaScript, Node.js, HTML
+# A few details about myself:
+- 🇺🇦 I live in Ukraine.
+- ✉ Contact me ( hendrey228228228k@gmail.com / https://t.me/ElezthemDev)
+- 💻 Currently studying/will study: C#, Python, C++, Java, JavaScript, Node.js, HTML
 
 # GitHub Status
 
@@ -15,14 +15,14 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1065907554858827786)](https://discord.com/users/1065907554858827786)
 
-# Пишу/Навыки
+# Writing/Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,php,py,cpp,css,django,ruby)](https://skillicons.dev)
 
-# Часто используемые среды разработки
+# Commonly used development environments
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio)](https://skillicons.dev)
 
-# Среды для дизайна и т.д
+# Design environments, etc.
 [![My Skills](https://skillicons.dev/icons?i=blender,figma,github,qt,unity)](https://skillicons.dev)
 
-# Соц.сети
+# Social network
 [![My Skills](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
