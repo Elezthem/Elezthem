@@ -13,7 +13,7 @@
 
 # Discord Profile
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1089529478977421404)](https://discord.com/users/1089529478977421404)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1065907554858827786)](https://discord.com/users/1065907554858827786)
 
 # Пишу/Навыки
 [![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,php,py,cpp,css,django,ruby)](https://skillicons.dev)
