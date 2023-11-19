@@ -10,7 +10,7 @@ enemy.
 
 # My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/Pac-Man-Game)
 
 # Discord Profile
 
