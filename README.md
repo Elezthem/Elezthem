@@ -9,7 +9,7 @@
 
 # GitHub Status
 
-![ElezthemDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=elezthem&show_icons=true&theme=synthwave)
+![ElezthemDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=elezthem&show_icons=true&theme=highcontrast)
 
 # Discord Profile
 
