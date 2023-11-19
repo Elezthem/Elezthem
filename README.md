@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=MyBotOkimo)](https://github.com/elezthem/MyBotOkimo)
 
-# Test
+# My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/github-readme-stats)
 
