@@ -11,7 +11,7 @@
 
 ![ElezthemDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=elezthem&show_icons=true&theme=tokyonight)
 
-# Test
+# Cool OkimoBot
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=MyBotOkimo)](https://github.com/elezthem/MyBotOkimo)
 
