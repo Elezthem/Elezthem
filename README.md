@@ -15,6 +15,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=MyBotOkimo)](https://github.com/elezthem/MyBotOkimo)
 
+# Test
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/github-readme-stats)
+
 # Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1065907554858827786)](https://discord.com/users/1065907554858827786)
