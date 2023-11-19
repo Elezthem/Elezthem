@@ -21,7 +21,7 @@
 
 # Test
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elezthem)](https://github.com/elezthem/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elezthem)](https://github.com/elezthem/RacingGame)
 
 # Discord Profile
 
