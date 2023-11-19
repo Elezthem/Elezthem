@@ -13,7 +13,7 @@
 
 # Test
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=github-readme-stats)](https://github.com/elezthem/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=MyBotOkimo)](https://github.com/elezthem/MyBotOkimo)
 
 # Discord Profile
 
