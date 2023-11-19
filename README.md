@@ -1,11 +1,4 @@
-### 👋 Hello everyone, my name is ElezthemDev
----------------------------------------
-## I am a beginner GameDev, Python Developer, WebDeveloper, Designer, JavaScript Developer
----------------------------------------
-# A few details about myself:
-- 🇺🇦 I live in Ukraine.
-- ✉ Contact me ( hendrey228228228k@gmail.com / https://t.me/ElezthemDev)
-- 💻 Currently studying/will study: C#, Python, C++, Java, JavaScript, Node.js, HTML
+enemy.
 
 # GitHub Status
 
@@ -18,10 +11,6 @@
 # My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/github-readme-stats)
-
-# Test
-
-[![Harlok's WakaTime stats](https://RacingGame.app/api/wakatime?username=elezthem)](https://github.com/elezthem/RacingGame)
 
 # Discord Profile
 
