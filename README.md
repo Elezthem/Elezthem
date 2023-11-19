@@ -19,6 +19,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elezthem&layout=donut)](https://github.com/elezthem/github-readme-stats)
 
+# Test
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elezthem)](https://github.com/elezthem/github-readme-stats)
+
 # Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1065907554858827786)](https://discord.com/users/1065907554858827786)
