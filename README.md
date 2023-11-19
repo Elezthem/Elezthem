@@ -11,18 +11,10 @@
 
 ![ElezthemDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=elezthem&show_icons=true&theme=tokyonight)
 
+# Test
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezthem&repo=github-readme-stats)](https://github.com/elezthem/github-readme-stats)
+
 # Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1065907554858827786)](https://discord.com/users/1065907554858827786)
-
-# Writing/Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,php,py,cpp,css,django,ruby)](https://skillicons.dev)
-
-# Commonly used development environments
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio)](https://skillicons.dev)
-
-# Design environments, etc.
-[![My Skills](https://skillicons.dev/icons?i=blender,figma,github,qt,unity)](https://skillicons.dev)
-
-# Social network
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
