@@ -1,4 +1,4 @@
-💙 My game - https://yandex.ru/games/app/273408?lang=ru
+💙 My game - https://yandex.com/games/app/283737?lang=ru
 
 # GitHub Status
 
