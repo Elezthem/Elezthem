@@ -9,20 +9,9 @@
 <img align="right" src="https://i.pinimg.com/originals/2b/69/14/2b69148cdb9009138c193a0347f42837.jpg" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
-- Full Stack
-- Python
 - C#
-- JavaScipt
-- CSS
-- HTML
-- Java
 - Unity Developer
-- Vue.js
-- Bootstrap & Tailwind
-- Yandex Games Developer
-- Web Development
-- Game Development
-- Discord Bot Development
-- Telegram Bot Development
+- Full Stack Developer
+- Python maybe 😃
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d4ojrjzmujwmvclliepacpbrv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=d4ojrjzmujwmvclliepacpbrv&redirect=true)
