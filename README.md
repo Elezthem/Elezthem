@@ -14,4 +14,4 @@
 - Full Stack Developer
 - Python maybe 😃
 
-[![spotify-github-profile][[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d4ojrjzmujwmvclliepacpbrv&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d4ojrjzmujwmvclliepacpbrv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d4ojrjzmujwmvclliepacpbrv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d4ojrjzmujwmvclliepacpbrv&redirect=true)
